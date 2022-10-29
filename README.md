@@ -1,2 +1,3 @@
-# Test2. tanks/mechanics/shooting/platform
+### Test2. tanks/mechanics/shooting/platform
 Механика, стрельба, платформа
+![]()
